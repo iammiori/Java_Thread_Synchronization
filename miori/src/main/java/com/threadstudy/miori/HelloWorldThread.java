@@ -7,7 +7,7 @@ public class HelloWorldThread extends Thread {
 	@Override
 	public void run() {
 		//helloWorld 출력
-		System.out.println("Hello World Thread");
+		System.out.println("Hello World Thread ");
 	}
 
 }
